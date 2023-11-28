@@ -1,6 +1,6 @@
-# Md Al Maruf
+# Rezwana
 
-* Personal Website[https://mdalmaruf.github.io/]
+* Personal Website[https://RezwanaMamata.github.io/]
 
 
 
